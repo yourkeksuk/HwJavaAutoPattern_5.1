@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5kvbccbjj2ktxi0w?svg=true)](https://ci.appveyor.com/project/yourkeksuk/hwjavaautopattern-5-1)
